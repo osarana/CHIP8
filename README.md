@@ -2,7 +2,7 @@
 
 ![CHIP-8 Emulator Demo](demo.gif)
 
-A high-quality CHIP-8 emulator written in [programming language] that allows you to relive the classic era of retro gaming. Emulate, play, and even program your own games for this iconic 8-bit virtual machine.
+A high-quality CHIP-8 emulator written in C. Includes the SDL2 development library to allow for graphics, input, sound, and timer support.
 
 ## Table of Contents
 
@@ -21,8 +21,6 @@ A high-quality CHIP-8 emulator written in [programming language] that allows you
 - **Customizable:** Configure settings like display scale and key mappings to suit your preferences.
 - **Built-in Debugger:** Debug and inspect your programs with ease.
 - **Dynamic Sound:** Experience the nostalgic beeps and boops with sound support.
-- **Save and Load:** Save and load your game progress at any time.
-- **Community-Driven:** An active community of contributors and enthusiasts.
 
 ## Getting Started
 
