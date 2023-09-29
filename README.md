@@ -32,7 +32,7 @@ Follow these instructions to get your CHIP-8 emulator up and running.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/osarana/CHIP-8-Emulator.git`
+1. Clone the repository: `git clone https://github.com/osarana/CHIP8.git`
 2. Build the emulator: `make`
 3. Run the emulator: `./chip8 <path-to-ROM-file>`
 
