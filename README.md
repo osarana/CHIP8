@@ -41,9 +41,3 @@ Follow these instructions to get your CHIP-8 emulator up and running.
 ```bash
 # Example command to start a game
 ./chip8 roms/game.ch8
-
-Provide step-by-step instructions on how to use your emulator, including loading ROMs, starting games, and configuring settings. You can also include code snippets for common tasks.
-
-```bash
-# Example command to start a game
-./chip8 roms/game.ch8
